@@ -1,4 +1,12 @@
 /*  your css code here. If applicable */
-table {
-  border-collapse: collapse;
+th, td {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+td,th{
+	border-radius:5px;
+	padding:8px;
+}
+table{
+	border-radius:5px;
 }
