@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-th, td {
-  border: 1px solid gray;
-  border-radius: 5px;
-	padding:8px;
+td, th {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5rem;
 }
 /* table{
 	border-radius:5px;
